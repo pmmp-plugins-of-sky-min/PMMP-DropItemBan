@@ -1,0 +1,5 @@
+name: DropItemSetting
+main: skymin\drop\DropItemSetting
+api: 3.22.0
+version: SKY
+author: skymin
